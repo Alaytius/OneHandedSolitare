@@ -1,2 +1,2 @@
-# OneHandedSolitare
-An implementation of One Handed Solitare in Python
+# OneHandedSolitaire
+An implementation of One Handed Solitaire in Python
